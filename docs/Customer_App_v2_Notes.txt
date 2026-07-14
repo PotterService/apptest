@@ -1,0 +1,24 @@
+POTTER SERVICE CUSTOMER APP V2
+
+Public domain: app.potterservice.com
+No guest requests. All users must have accounts.
+
+Included prototype ideas:
+- Welcome using the logged-in name; preview name is Sparkles.
+- Bow online/offline status and Facebook contact button when offline.
+- Visible starting rates before ride/delivery request.
+- Customer notifications after quote, acceptance, on-the-way, arrival, and completion.
+- Payment choices: PayPal, cash on pickup, card on pickup, and account charge when approved.
+- In-app messaging after acceptance through drop-off/completion.
+- Rewards page and home redeem-code box.
+- Discount codes, Wait & Ride credits, Pickup Backups, and stackable code counts.
+- Pickup Backup setup/request flow, expiration, confirmation warning, and forfeiture after acceptance.
+- Account balances and optional negative limits controlled by Bow.
+- User selects account charge before submitting; Bow sees balance and limit.
+- Admin-created requests appear on the customer's Status page.
+- Event Day mode with event address locked, to/from selection, event queue, starting rate, included miles, and overage pricing.
+- Business accounts can log in while pending but cannot request until approved.
+- Temporary event-manager accounts and date restrictions.
+- Account blacklist, suspension, and temporary restriction controls planned for the private app.
+
+This is a visual prototype only. No real payments, notifications, messages, accounts, or database are connected.
